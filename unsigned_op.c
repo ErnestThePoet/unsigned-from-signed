@@ -190,6 +190,7 @@ int div_mod_uint32(
     int div_mod_uint32_a,
     int div_mod_uint32_b)
 {
+    // Calculate division with pen-and-paper method
     int div_mod_uint32_i;
     int div_mod_uint32_a_bits, div_mod_uint32_b_bits;
     int div_mod_uint32_rem = div_mod_uint32_a;
